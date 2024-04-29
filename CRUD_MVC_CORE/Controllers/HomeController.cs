@@ -15,7 +15,6 @@ namespace CRUD_MVC_CORE.Controllers
 
         public IActionResult Index()
         {
-            var employee
 
             return View();
         }
